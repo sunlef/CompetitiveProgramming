@@ -9,7 +9,6 @@ DerivePointerAlignment: true
 
 IndentWidth: 4
 TabWidth: 4
-ColumnLimit: 200
 
 KeepEmptyLinesAtTheStartOfBlocks: false
 MaxEmptyLinesToKeep: 1
@@ -21,4 +20,3 @@ AllowShortIfStatementsOnASingleLine: true
 
 ReflowComments: false
 Cpp11BracedListStyle: true
-
