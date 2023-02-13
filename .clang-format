@@ -1,0 +1,24 @@
+#clang-format -i <file>
+Language: Cpp
+
+BasedOnStyle: Google
+
+ReferenceAlignment: Right 
+PointerAlignment: Right
+DerivePointerAlignment: true
+
+IndentWidth: 4
+TabWidth: 4
+ColumnLimit: 200
+
+KeepEmptyLinesAtTheStartOfBlocks: false
+MaxEmptyLinesToKeep: 1
+
+AllowShortFunctionsOnASingleLine: Empty
+AllowShortIfStatementsOnASingleLine: true
+AllowShortLoopsOnASingleLine: true
+AllowShortIfStatementsOnASingleLine: true
+
+ReflowComments: false
+Cpp11BracedListStyle: true
+
